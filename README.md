@@ -1,2 +1,3 @@
 # test-apps
+third
 fix
